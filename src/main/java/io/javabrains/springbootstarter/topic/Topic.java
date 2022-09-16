@@ -38,7 +38,6 @@ public class Topic {
 
 	public void setId(String id) {
 		this.id = id;
-	}
-	
+	}	
 	
 }
