@@ -20,7 +20,7 @@
 
 **List the Integration Tests that have been created below**  (list any new ones, expectations are that bug fixes should add new ones)
 
-**I need to clarify what  other changes they want me to make**  (KeyBase, file in story, etc)
+**Here is another change to the file**  (KeyBase, file in story, etc)
 
 **Is the Unit Test Coverage up, down, or unchanged?** 
 
@@ -30,4 +30,5 @@
 
 **Provide any other useful information below**
 
-**Here is the latest update at 11:27**
+
+**Here is the latest update at 1:26**
