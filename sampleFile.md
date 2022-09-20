@@ -30,8 +30,5 @@
 
 **Provide any other useful information below**
 
-1. [ ] Was this fun
-2. [ ] Did you learn something?
-3. [ ] Did it take more time than expected?
 
-**Here is the latest update at 11:53**
+**Here is the latest update at 12:17**
