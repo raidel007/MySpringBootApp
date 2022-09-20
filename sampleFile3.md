@@ -3,7 +3,7 @@
 **Provide the Jira Story Name and Link below**
 
 * Name (for instance 'PR template'):
-* Link (for instance 'google.com/maps'):
+* Link (for instance ''https://google.com/maps'):
 
 **List the Curl commands used to demonstrate this Pull Request below** (leave blank if Curl commands were not used)
 
@@ -30,4 +30,4 @@
 
 **Provide any other useful information below**
 
-**Here is the latest update**
+**Here is the latest update at 11:27**
