@@ -26,7 +26,7 @@
 2. [ ] Down
 3. [ ] Unchanged
 
-**Do we meet all Security Scans**
+**Do we meet all Security Scans?**
 1. [ ] Yes
 2. [ ] No
 
