@@ -3,13 +3,11 @@
 **Provide the Jira Story Name and Link below**
 
 * Name (for instance 'PR template'):
-* Link (for instance ''https://google.com/maps'):
+* Link (for instance 'https://vajira.max.gov/browse/PTEMSAPI-939'):
 
 **List the Curl commands used to demonstrate this Pull Request below** (leave blank if Curl commands were not used)
 
 **Were any database changes required for this Pull Request to work?**
-
-*Almost done....*
 
 1. [ ] Yes
 2. [ ] No
@@ -20,7 +18,7 @@
 
 **List the Integration Tests that have been created below**  (list any new ones, expectations are that bug fixes should add new ones)
 
-**Here is another change to the file**  (KeyBase, file in story, etc)
+**Provide the location of the Test Data for the QA environment below**  (KeyBase, file in story, etc)
 
 **Is the Unit Test Coverage up, down, or unchanged?** 
 
@@ -28,7 +26,6 @@
 2. [ ] Down
 3. [ ] Unchanged
 
+**Provide all Security Scan results if applicable**
+
 **Provide any other useful information below**
-
-
-**Here is the latest update at 12:32am**
