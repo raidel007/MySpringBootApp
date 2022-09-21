@@ -26,6 +26,8 @@
 2. [ ] Down
 3. [ ] Unchanged
 
-**Provide all Security Scan results if applicable**
+**Do we meet all Security Scans**
+1. [ ] Yes
+2. [ ] No
 
 **Provide any other useful information below**
