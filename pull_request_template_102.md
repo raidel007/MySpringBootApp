@@ -1,4 +1,4 @@
-## Pull Request Information
+## Pull Request Information 1
 
 **Provide the Jira Story Name and Link below**
 
@@ -25,9 +25,5 @@
 1. [ ] Up
 2. [ ] Down
 3. [ ] Unchanged
-
-**Do the changes meet all Security Scans?**
-1. [ ] Yes
-2. [ ] No
 
 **Provide any other useful information below**
