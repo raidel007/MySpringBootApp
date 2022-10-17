@@ -1,11 +1,6 @@
 ## Pull Request Information
 
-**Provide the Jira Story Name and Link below**
-
-* Name (for instance 'PR template'):
-* Link (for instance 'https://vajira.max.gov/browse/PTEMSAPI-939'):
-
-**List the Curl commands used to demonstrate this Pull Request below** (leave blank if Curl commands were not used)
+Here is a test !
 
 **Were any database changes required for this Pull Request to work?**
 
