@@ -1,9 +1,11 @@
 ## Pull Request Information
 
-**Testing to merge PRs?**
+**Provide the Jira Story Name and Link below**
 
-2. [ ] Simple
-3. [ ] Hard
+* Name (for instance 'PR template'):
+* Link (for instance 'https://vajira.max.gov/browse/PTEMSAPI-939'):
+
+**List the Curl commands used to demonstrate this Pull Request below** (leave blank if Curl commands were not used)
 
 **Were any database changes required for this Pull Request to work?**
 
